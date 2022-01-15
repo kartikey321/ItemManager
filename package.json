@@ -1,0 +1,19 @@
+{
+  "name": "blockchain_ex",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "truffle-config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "truffle-safe-hdwallet-provider": "^0.0.7"
+  }
+}
